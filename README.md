@@ -17,3 +17,9 @@ In a new terminal, run the Streamlit app:
 cd streamlit_app
 streamlit run app.py
 ```
+### Step 7: Open the Application
+
+Open your web browser and go to `http://localhost:8501`. You can now interact with the system by entering your query.  
+
+
+As the app can take some time for loading due tothe C.P.U issues and you can let me know if there are any queries
