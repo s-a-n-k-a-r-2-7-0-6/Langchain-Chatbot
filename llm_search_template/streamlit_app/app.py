@@ -8,7 +8,7 @@ query = st.text_input("Enter your query:")
 
 if st.button("Search"):
     # Make a POST request to the Flask API
-    flask_url = "http://localhost:5001/query"  # Replace with your Flask app URL
+    flask_url = "http://localhost:8501/query"  # Replace with your Flask app URL
     print("accessing", flask_url, "with query", query)
 
     if query:
